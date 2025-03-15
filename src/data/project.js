@@ -5,6 +5,7 @@ import weather from "../assets/images/weather.png";
 import bookhub from "../assets/images/bookhub.png";
 import car from "../assets/images/car.png";
 import portfolio from "../assets/images/portfolio.png";
+import proConnect from "../assets/images/proConnect.png";
 
 const projectData = [
     {
@@ -71,11 +72,11 @@ const projectData = [
         id:7,
         title:"Linkedin Clone",
         level:"advance",
-        description:"",
-        github:"",
+        description:"ProConnect is a professional networking platform similar to LinkedIn, built using Next.js, Node.js, Express, and MongoDB. It allows users to connect with professionals, share posts, and manage their profiles efficiently.",
+        github:"https://github.com/ismaeelkhaleel/proConnect",
         technology:"HTML, CSS, Bootstrap, Node.js, Express.js, Rest API, MongoDB & React.js",
-        img:"",
-        demo:"",
+        img:proConnect,
+        demo:"https://pro-connect-nine.vercel.app/",
     },
     {
         id:8,
